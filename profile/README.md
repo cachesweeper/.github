@@ -16,4 +16,4 @@ A Chrome extension that clears the site you're on in one click or with <kbd>Ctrl
 - **Premium** ($3 a month or $29 once): sessionStorage in every open tab, service worker unregistering, bypass-cache reload, scheduled and tab-close clearing, protected domains and more.
 - **Runs locally.** No account and no analytics. The only thing that ever leaves your browser is a Premium license check.
 
-**Coming soon to the Chrome Web Store.**
+**[Add to Chrome for free](https://chromewebstore.google.com/detail/cachesweeper/pbonkgfajlgnahmegmiegdmogmpnilif)** on the Chrome Web Store.
